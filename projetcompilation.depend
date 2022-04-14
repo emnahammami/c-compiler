@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1528157750 source:c:\users\admin1\desktop\projetcompilation\cal.tab.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stddef.h>
+	<libintl.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+
+1528157763 source:c:\users\admin1\desktop\projetcompilation\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<stdio.h>
+	"cal.tab.h"
+	<stdlib.h>
+
+1528157750 c:\users\admin1\desktop\projetcompilation\cal.tab.h
+
